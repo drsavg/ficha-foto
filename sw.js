@@ -1,5 +1,5 @@
 // Funcionamiento sin conexión. Cambia VERSION cada vez que actualices archivos.
-const VERSION = 'ficha-1.0';
+const VERSION = 'ficha-1.0.1';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   'icons/apple-touch-icon.png', 'icons/app-192.png', 'icons/app-512.png'
