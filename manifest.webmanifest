@@ -1,0 +1,14 @@
+{
+  "name": "Ficha de parámetros fotográficos",
+  "short_name": "Ficha foto",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f9",
+  "theme_color": "#0a3264",
+  "icons": [
+    { "src": "icons/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
